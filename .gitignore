@@ -1,17 +1,11 @@
-# Ignore Python compiled files
+# Ignore compiled Python files
 __pycache__/
 *.pyc
 *.pyo
-*.pyd
 
-# Ignore virtual environments
-venv/
-.env/
-
-# Ignore output files
+# Ignore log & result files
 valid_accounts.txt
 failed_accounts.txt
 
 # Ignore system files
 .DS_Store
-Thumbs.db
