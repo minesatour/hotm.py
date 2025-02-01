@@ -1,4 +1,3 @@
-tkinter
 threading
 imaplib
 time
