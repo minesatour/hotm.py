@@ -1,0 +1,17 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore output files
+valid_accounts.txt
+failed_accounts.txt
+
+# Ignore system files
+.DS_Store
+Thumbs.db
